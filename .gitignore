@@ -1,0 +1,5 @@
+*.pyc
+Makefile
+output/
+develop_server.sh
+venv/

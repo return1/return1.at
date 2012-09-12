@@ -1,0 +1,68 @@
+Perspective 2011
+################
+:date: 2011-01-05 12:00
+:category: Javascript, PHP, Python
+:tags: amazon web services, bluebream, eclipse, emacs, extjs, node.js, python, sencha touch, textmate, twig, zend framework, intellij idea, pycharm
+:slug: perspective-2011
+
+The beginning of a new year makes me consider current developments on
+the market, and which of those might be of interest to me. It is also a
+kind of fresh start, an attempt at motivation that probably everybody
+needs in their job to enjoy working. 
+
+`Sencha Touch`_ 
+---------------
+Mobile apps with HTML5 and CSS3, of course in fact cropped in their functionality, but
+development time and comfort just speak for themselves. Besides, it's
+cool ;). The API relies strongly on ExtJS, which is advantageous to me
+due to my previous knowledge. 
+
+`ExtJS 4`_ 
+----------
+A new version of ExtJS? It can
+only improve a lot. ExtJS3 is very professional already. I'm looking
+forward to possibly employing it in two of my current projects.
+
+`node.js`_ 
+----------
+Javascript on the server, AJAX push/pull, server load
+relieving...... there is an interesting technology indeed in the offing.
+
+`Twig`_ 
+-------
+Since I am currently working more with Zend Framework, i.e. PHP,
+I'm quite enthusiastic about Twig, because it reminds me a lot of Zope
+page templates, and of the beautiful world of Python. 
+
+`Zend Framework 2`_ 
+-------------------
+The admittedly very useful and convenient PHP framework, completely
+overhauled. ``/me`` in sceptical but eager anticipation. 
+
+`Bluebream 1.0`_ 
+----------------
+(formerly Zope 3) Will Bluebream become the more organized Zope3?
+
+`Amazon Web Services`_ 
+----------------------
+It would appeal to me to use more AWS services
+than heretofore, to fully exploit this scalability. At the same time
+trying out possible alternative providers. 
+
+Editor 
+------
+I am at odds with all
+editors that I have used up to now. Eclipse is too inflated and slow for
+me, Emacs is too dry (I can use Emacs shortcuts in any other editor
+too), Textmate has no proper code outline view. I hope to come across
+the perfect editor in 2011. What other interesting technologies for us
+web developers are out there? Trends? Dark horses? Hints are
+appreciated.
+
+.. _Sencha Touch: http://www.sencha.com/products/touch/
+.. _ExtJS 4: http://www.sencha.com/blog/2010/11/22/ext-js-4-preview-faster-easier-more-stable/
+.. _node.js: http://nodejs.org/
+.. _Twig: http://www.twig-project.org/
+.. _Zend Framework 2: https://github.com/zendframework/zf2
+.. _Bluebream 1.0: http://pypi.python.org/pypi/bluebream
+.. _Amazon Web Services: http://aws.amazon.com/
