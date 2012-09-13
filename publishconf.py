@@ -6,6 +6,7 @@ sys.path.append('.')
 from pelicanconf import *
 
 SITEURL = 'http://return1.at'
+#ARTICLE_URL = '{slug}/'
 
 DELETE_OUTPUT_DIRECTORY = True
 

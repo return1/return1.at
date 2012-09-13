@@ -16,7 +16,7 @@ LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
           ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('twitter', 'https://twitter.com/retun1_at'),
+SOCIAL = (('twitter', 'https://twitter.com/return1_at'),
           ('github', 'https://github.com/return1'),)
 
 DEFAULT_PAGINATION = 4
