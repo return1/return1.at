@@ -4,6 +4,7 @@ Problems installing monit and munin on Ubuntu
 :category: Server
 :tags: ubuntu, munin, mysql
 :slug: problems-installing-monit-and-munin-on-ubuntu
+:summary: What i needed to tweak to monitor mysql.
 
 To monitor mysql, you need to activate the mysql pid file creation. In
 ``/etc/mysql/my.cnf``, in the ``[mysqld]`` section add

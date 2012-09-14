@@ -4,6 +4,7 @@ Python und Zope als Unterrichtswerkzeuge
 :category: Python
 :tags: didactics, education, python, thesis, zope
 :slug: python-und-zope-als-unterrichtswerkzeuge
+:summary: My german thesis about python and zope in education
 
 German Thesis, so this post is written in German. If you are
 interested in the english abstract, please feel free to grab it from

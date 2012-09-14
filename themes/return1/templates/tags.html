@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block content %}
+<ul>
+    {% for tag in tag_cloud %}
+    <span class="tag-{{ tag.1 }}"><a href="/tag/{{ tag.0 }}/">{{ tag.0 }}</a></span>
+    {% endfor %}
+</ul>
+{% endblock %}
+

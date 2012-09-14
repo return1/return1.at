@@ -1,5 +1,5 @@
-Home
-####
+About
+#####
 
 My name is Dominique Lederer. I have been developing web applications
 since 1999/2000. From an early time on, as a company employee, I have

@@ -1,0 +1,11 @@
+<footer class="post-info">
+    posted on <abbr class="published" title="{{ article.date.isoformat() }}">{{ article.locale_date }}</abbr>
+
+    <br/>
+
+    in <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>. {% if PDF_PROCESSOR %}<a href="{{ SITEURL }}/pdf/{{ article.slug }}.pdf">get the pdf</a>{% endif %}
+
+    {% include 'taglist.html' %}
+
+    {% include 'translations.html' %}
+</footer>

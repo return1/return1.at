@@ -1,8 +1,8 @@
 Perspective 2011
 ################
 :date: 2011-01-05 12:00
-:category: Javascript, PHP, Python
-:tags: amazon web services, bluebream, eclipse, emacs, extjs, node.js, python, sencha touch, textmate, twig, zend framework, intellij idea, pycharm
+:category: General
+:tags: amazon web services, bluebream, eclipse, emacs, extjs, node.js, python, sencha touch, textmate, twig, zend framework, intellij idea, pycharm, php, javascript
 :slug: perspective-2011
 
 The beginning of a new year makes me consider current developments on

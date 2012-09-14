@@ -1,9 +1,10 @@
 Painful iframe resizing or how to fit ad banners into ajax heavy web sites with writeCapture
 ############################################################################################
 :date: 2010-11-02 11:56
-:category: Javascript, jQuery
-:tags: ads, iframe, jquery
+:category: Javascript
+:tags: ads, iframe, jquery, javascript
 :slug: iframe-resizing-how-to-fit-ad-banner-ajax-websites-writecapture
+:summary: Or: The crux with online advertising.
 
 Or: The crux with online advertising
 ====================================

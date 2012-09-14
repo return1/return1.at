@@ -4,6 +4,9 @@ Analyze and tweak your apache2 mpm settings
 :category: Server
 :tags: apache, perl, ubuntu
 :slug: apache2-analyze-tweak-mpm-perl-script
+:summary: A handy perl script, which analyzes your
+          currently running apache clients and helps you with tweaking your MPM
+          settings based on calculations.
 
 Recently I stumbled over a handy perl script, which analyzes your
 currently running apache clients and helps you with tweaking your MPM

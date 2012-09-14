@@ -6,7 +6,6 @@ sys.path.append('.')
 from pelicanconf import *
 
 SITEURL = 'http://return1.at'
-#ARTICLE_URL = '{slug}/'
 
 DELETE_OUTPUT_DIRECTORY = True
 
@@ -15,5 +14,5 @@ DELETE_OUTPUT_DIRECTORY = True
 # Uncomment following line for absolute URLs in production:
 #RELATIVE_URLS = False
 
-#DISQUS_SITENAME = ""
-#GOOGLE_ANALYTICS = ""
+DISQUS_SITENAME = "return1at"
+GOOGLE_ANALYTICS = "UA-1814170-3"
