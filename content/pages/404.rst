@@ -1,0 +1,6 @@
+404 - Page not found
+####################
+:status: hidden
+:slug: 404
+
+Sorry, but the page you are looking for has not been found.

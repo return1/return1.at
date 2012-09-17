@@ -1,0 +1,6 @@
+500 - Internal Server Error
+###########################
+:status: hidden
+:slug: 500
+
+Sorry, but i do not know wtf just happened!
