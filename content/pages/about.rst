@@ -1,7 +1,7 @@
 About
 #####
 
-My name is Dominique Lederer, and I have been a web developer since 1999/2000. Having worked for renowned corporate
+My name is Dominique Lederer, and I have been a web application developer since 1999/2000. Having worked for renowned corporate
 clients from the start (like Telekom Austria, Allianz, o2 or Red Bull), and after completing my studies at FH Technikum
 Wien (Information and Communication Systems and Services), I became self-employed in 2007, in order to offer my clients
 first-hand quality.
