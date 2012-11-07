@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% block title %}{{ article.title|striptags }}{% endblock %}
 {% block content %}
-<article>
+<article {% if article.wide %}class="wide"{% endif %}>
     <header>
       <h1 class="entry-title">
         <a href="{{ article.url }}" rel="bookmark"
@@ -10,7 +10,6 @@
     </header>
 
     <div class="entry-content">
-
       {{ article.content }}
     </div>
 
@@ -30,13 +29,12 @@
 
 </article>
 
-<aside>
+<aside {% if article.wide %}class="narrow"{% endif %}>
     <h3>About me</h3>
     Hi, my name is <a href="../pages/about.html">Dominique Lederer</a>. I develop webapplications.
 
     <h3>About this article</h3>
     {% include 'article_infos.html' %}
-
 </aside>
 
 {% endblock %}

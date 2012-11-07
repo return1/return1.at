@@ -24,15 +24,9 @@ Unfortunately, the iFrame does not know what kind of content the ad-supplier is 
 "Context sensitive" iFrames are called for, which can adapt to the external content's size. 
 A simple and efficient jQuery method is the following:
 
-.. sourcecode:: javascript
+.. raw:: html
 
-    //auto-resizing ad-banners
-    var resizeInterval = window.setInterval(function () {
-        $iframe = $('#bigbanner iframe');
-        $iframe.attr('width', '100%').attr('height', '100%'); //reset
-        $doc = $($iframe.get(0).contentWindow.document);
-        $iframe.attr('width', $doc.width()).attr('height', $doc.height());
-    }, 1000);
+    <script src="https://gist.github.com/4032581.js?file=jquery-ad-iframe-resize.js"></script>
 
 iFrame size is simply checked every x seconds (every second in this example). 
 Since it is impossible to determine correctly, easily and rapidly - and working in every browser - the moment when an
