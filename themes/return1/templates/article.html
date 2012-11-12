@@ -2,39 +2,43 @@
 {% block title %}{{ article.title|striptags }}{% endblock %}
 {% block content %}
 <article {% if article.wide %}class="wide"{% endif %}>
-    <header>
-      <h1 class="entry-title">
+<header>
+    <h1 class="entry-title">
         <a href="{{ article.url }}" rel="bookmark"
            title="Permalink to {{ article.title|striptags }}">{{ article.title}}</a></h1>
-      {% include 'twitter.html' %}
-    </header>
+    {% include 'twitter.html' %}
+</header>
 
-    <div class="entry-content">
-      {{ article.content }}
-    </div>
+<div class="entry-content">
+    {{ article.content }}
+</div>
 
-    {% if DISQUS_SITENAME %}
-    <div class="comments">
-      <div id="disqus_thread"></div>
-      <script type="text/javascript">
+{% if DISQUS_SITENAME %}
+<div class="comments">
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
         var disqus_identifier = "{{ article.url }}";
-        (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'http://{{ DISQUS_SITENAME }}.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        (function () {
+            var dsq = document.createElement('script');
+            dsq.type = 'text/javascript';
+            dsq.async = true;
+            dsq.src = 'http://{{ DISQUS_SITENAME }}.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
         })();
-      </script>
-    </div>
-    {% endif %}
+    </script>
+</div>
+{% endif %}
 
 </article>
 
 <aside {% if article.wide %}class="narrow"{% endif %}>
-    <h3>About me</h3>
-    Hi, my name is <a href="../pages/about.html">Dominique Lederer</a>. I develop webapplications.
+<h3>About me</h3>
+Hi, my name is <a href="../pages/about.html">Dominique Lederer</a>. I develop webapplications. Follow me <a
+        href="https://twitter.com/return1_at" target="_blank">@return1_at</a> or on <a
+        href="https://plus.google.com/113955961996209596236/about" target="_blank">g+</a>.
 
-    <h3>About this article</h3>
-    {% include 'article_infos.html' %}
+<h3>About this article</h3>
+{% include 'article_infos.html' %}
 </aside>
 
 {% endblock %}
