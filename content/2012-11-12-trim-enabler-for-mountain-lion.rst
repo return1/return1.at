@@ -4,9 +4,9 @@ TRIM Enabler for OSX Mountain Lion
 :category: General
 :tags: osx, trim, mountain lion
 :slug: trim-enabler-for-osx-mountain-lion
-:summary: Re-enable TRIM support on OSX Mountain Lion 10.8.1 or higher.
+:summary: Re-enable TRIM support on OSX Mountain Lion 10.8.2 or higher.
 
-Here’s the proper way to re-enable TRIM support on OSX Mountain Lion 10.8.1 or higher. Run these commands in Terminal:
+Here’s the proper way to re-enable TRIM support on OSX Mountain Lion 10.8.2 or higher. Run these commands in Terminal:
 
 .. raw:: html
 
