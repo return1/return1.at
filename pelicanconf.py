@@ -44,3 +44,5 @@ SITEMAP_SAVE_AS = 'sitemap.xml'
 #seo
 ARTICLE_URL = '{slug}/'
 ARTICLE_SAVE_AS = '{slug}/index.html'
+
+PLUGINS = ['minify']
