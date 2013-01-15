@@ -66,9 +66,12 @@ kostenlos gelesen werden:
 :Amazon: `Python und Zope als Unterrichtswerkzeuge`_\ 
 :PDF: `Python und Zope als Unterrichtswerkzeuge (PDF)`_
 :Stadtgespräche: `http://www.stadtgespräche.com/`_
+:Github: `https://github.com/return1/masterthesis`_
+
 
 .. _here: /static/assets/Python_und_Zope_als_Unterrichtswerkzeuge.pdf
 .. _Göschka: http://www.infosys.tuwien.ac.at/staff/kmg/
 .. _Python und Zope als Unterrichtswerkzeuge: https://www.amazon.de/Python-Zope-Unterrichtswerkzeuge-Dominique-Lederer/dp/3640238834
 .. _Python und Zope als Unterrichtswerkzeuge (PDF): /static/assets/Python_und_Zope_als_Unterrichtswerkzeuge.pdf
-.. _`http://www.stadtgespräche.com/`: http://www.stadtgespraeche.com/
+.. _http://www.stadtgespräche.com/: http://www.stadtgespraeche.com/
+.. _https://github.com/return1/masterthesis: https://github.com/return1/masterthesis
