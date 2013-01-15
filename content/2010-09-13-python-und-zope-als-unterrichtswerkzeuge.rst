@@ -7,8 +7,7 @@ Python und Zope als Unterrichtswerkzeuge
 :summary: My german thesis about python and zope in education
 
 German Thesis, so this post is written in German. If you are
-interested in the english abstract, please feel free to grab it from
-`here`_.
+interested in the english abstract, please feel free to grab it from `here`_.
 
 Für den Abschluss meiner Ausbildung an der FH
 Technikum Wien (Studiengang ICSS) wählte ich ein Diplomarbeitsthema, das
@@ -68,8 +67,8 @@ kostenlos gelesen werden:
 :PDF: `Python und Zope als Unterrichtswerkzeuge (PDF)`_
 :Stadtgespräche: `http://www.stadtgespräche.com/`_
 
-.. _here: assets/Python_und_Zope_als_Unterrichtswerkzeuge.pdf
+.. _here: /static/assets/Python_und_Zope_als_Unterrichtswerkzeuge.pdf
 .. _Göschka: http://www.infosys.tuwien.ac.at/staff/kmg/
 .. _Python und Zope als Unterrichtswerkzeuge: https://www.amazon.de/Python-Zope-Unterrichtswerkzeuge-Dominique-Lederer/dp/3640238834
-.. _Python und Zope als Unterrichtswerkzeuge (PDF): assets/Python_und_Zope_als_Unterrichtswerkzeuge.pdf
+.. _Python und Zope als Unterrichtswerkzeuge (PDF): /static/assets/Python_und_Zope_als_Unterrichtswerkzeuge.pdf
 .. _`http://www.stadtgespräche.com/`: http://www.stadtgespraeche.com/

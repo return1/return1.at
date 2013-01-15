@@ -61,4 +61,4 @@ The day is saved by the call-back functionality of writeCapture, which can trigg
 .. _with: http://www.intertwingly.net/blog/2006/11/10/Thats-Not-Write
 .. _Newsweek.com: http://newsweek.com/
 .. _`http://github.com/iamnoah/writeCapture/`: http://github.com/iamnoah/writeCapture/
-.. _`http://return1.at/sandbox/writeCapture/`: sandbox/writeCapture/
+.. _`http://return1.at/sandbox/writeCapture/`: /static/sandbox/writeCapture/
