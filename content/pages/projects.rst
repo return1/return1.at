@@ -1,8 +1,8 @@
 Projects
 ########
 
-- `Halle für Kunst und Medien (Graz)`: django project. *work in progress*
 - `Relaunch Kronehit 2013`: flask/silverstripe. *work in progress* [1]_
+- `Halle für Kunst und Medien (Graz) <http://www.km-k.at/>`_: django project. *2013*
 - `Nicole Six & Paul Petritsch <http://www.six-petritsch.com/>`_: django project. *2012*
 - `Brandmair <http://brandmair.net/>`_: conversion of existing flash page to html only. *2012*
 - `Topradio`: development and server maintenance of `rs2 94,3 <http://www.rs2.de>`_, `Berliner Rundfunk 91.4 <http://www.berliner-rundfunk.de/>`_
