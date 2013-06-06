@@ -8,7 +8,7 @@ Playing with Bitcoin (CPU) Mining on Ubuntu
 
 The bitcoin is on an all time high at the moment, that's why i finally decided to fool around with it. But notice that mining with CPU's is NOT
 cost-effective, if you want to earn some coins, you have to mine with one or more GPU's. And don't mine alone, not worth it until you have a lot of
-calculation power, join a miner pool instead.
+computational power, join a miner pool instead.
 
 Anyway, here are the simple steps to run a CPU Miner on Debian or Ubuntu
 
