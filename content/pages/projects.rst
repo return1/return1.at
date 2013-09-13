@@ -1,12 +1,14 @@
 Projects
 ########
 
-- `Relaunch Kronehit 2013`: flask/silverstripe. *work in progress* [1]_
+- `Relaunch Kronehit 2013`: Flask API development, AWS Server maintenance. *work in progress* [1]_
 - `Halle für Kunst und Medien (Graz) <http://www.km-k.at/>`_: django project. *2013*
 - `Nicole Six & Paul Petritsch <http://www.six-petritsch.com/>`_: django project. *2012*
 - `Brandmair <http://brandmair.net/>`_: conversion of existing flash page to html only. *2012*
-- `Topradio`: development and server maintenance of `rs2 94,3 <http://www.rs2.de>`_, `Berliner Rundfunk 91.4 <http://www.berliner-rundfunk.de/>`_
-  and `KISS FM, der Beat von Berlin <http://kissfm.de/>`_. *2010-now()* [1]_
+- `Topradio <http://www.topradio.de/>`_: server maintenance. *2013-now()* [1]_
+- `rs2 94,3 <http://www.rs2.de>`_: development and server maintenance. *2010-now()* [1]_
+- `Berliner Rundfunk 91.4 <http://www.berliner-rundfunk.de/>`_: development and server maintenance. *2010-now()* [1]_
+- `KISS FM, der Beat von Berlin <http://www.kissfm.de/>`_: development and server maintenance. *2010-now()* [1]_
 - `Wunderweiss <http://www.wunderweiss.com>`_: maintenance of the wunderweiss server environment (Debian, Ubuntu, AWS). *2007-now()*
 - `ViennaEventCrew <http://www.viennaeventcrew.at>`_: custom CRM with Postgres, Zend Framework and ExtJS, hosted on AWS. *2009-now()*
 - `Wenatex Intranet <http://mein.wenatex.com/loki/>`_: highly frequented complex application built on Python, Bluebream
