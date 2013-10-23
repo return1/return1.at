@@ -1,7 +1,8 @@
 Projects
 ########
 
-- `Relaunch Kronehit 2013`: Flask API development, AWS Server maintenance. *work in progress* [1]_
+- `Relaunch Kronehit 2013 <http://www.kronehit.at/>`_: Flask API development, AWS Server maintenance. *2013* [1]_
+- `Kindergruppe Sternenland <http://www.kindergruppe-sternenland.at/>`_: django, mezzanine project. *2013*
 - `Halle für Kunst und Medien (Graz) <http://www.km-k.at/>`_: django project. *2013*
 - `Nicole Six & Paul Petritsch <http://www.six-petritsch.com/>`_: django project. *2012*
 - `Brandmair <http://brandmair.net/>`_: conversion of existing flash page to html only. *2012*
