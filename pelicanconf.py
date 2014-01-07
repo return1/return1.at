@@ -4,7 +4,7 @@
 AUTHOR = u"Dominique Lederer"
 SITENAME = u"return1"
 SITESUBTITLE = u'"return true" quality webapplications'
-SITEURL = 'http://return1.at'
+SITEURL = 'http://localhost:8000' #'http://return1.at'
 #TWITTER_USERNAME = 'return1_at'
 
 TIMEZONE = 'Europe/Vienna'

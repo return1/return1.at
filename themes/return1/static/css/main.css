@@ -259,9 +259,9 @@ article.overview footer.post-info {
 
     nav a {
         float: left;
-        width: 18%;
-        margin: 0 1.7%;
-        padding: 25px 2%;
+        /*width: 18%;*/
+        margin: 0 5px;
+        padding: 25px 8px;
         margin-bottom: 0;
     }
 
@@ -309,7 +309,7 @@ article.overview footer.post-info {
 
     nav {
         float: right;
-        width: 38%;
+        width: 58%;
     }
 
 /* ============

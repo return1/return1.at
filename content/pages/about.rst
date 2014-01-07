@@ -11,8 +11,8 @@ and training, I make sure to retain the cutting edge.
 
 .. raw:: html
 
-    <p>For further information, or if you are interested in a collaboration, please contact me on 
-    <a class="reference external" href="https://www.xing.com/profile/Dominique_Lederer">Xing</a>,
-    <a class="reference external" href="http://at.linkedin.com/in/dominiquelederer">LinkedIn</a> or
+    <p>For further information, or if you are interested in a collaboration, please contact me on&nbsp;
+    <a class="reference external" href="https://www.xing.com/profile/Dominique_Lederer">Xing</a>,&nbsp;
+    <a class="reference external" href="http://at.linkedin.com/in/dominiquelederer">LinkedIn</a> or&nbsp;
     <a class="reference external" href="https://twitter.com/return1_at">Twitter</a>, 
     or drop me a mail @ domi<a href="http://www.google.com/recaptcha/mailhide/d?k=01ZilVG1t_mruOsKRl84zCUg==&amp;c=mu8xPEnugt-jSqIWB0x-3QBUGQ-6f8f-MxWhR5gTLus=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501ZilVG1t_mruOsKRl84zCUg\75\75\46c\75mu8xPEnugt-jSqIWB0x-3QBUGQ-6f8f-MxWhR5gTLus\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">...</a>@return1.at</p>
