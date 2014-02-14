@@ -19,6 +19,7 @@ SOCIAL = (
     ('linkedin', 'http://at.linkedin.com/in/dominiquelederer'),
     ('xing', 'https://www.xing.com/profile/Dominique_Lederer'),
     ('about.me', 'https://about.me/dominique.lederer/'),
+    ('gittip', 'https://www.gittip.com/return1_at/'),
 )
 
 DEFAULT_PAGINATION = 5
