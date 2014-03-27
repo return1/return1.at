@@ -34,10 +34,16 @@ DEFAULT_DATE_FORMAT = '%B %d, %Y'
 SUMMARY_MAX_LENGTH = 30
 
 # A list of files to copy from the source to the destination
-FILES_TO_COPY = (
-    ('assets/robots.txt', 'robots.txt'),
-    ('assets/favicon.ico', 'favicon.ico'),
-)
+EXTRA_PATH_METADATA = {
+    'assets/robots.txt': {'path': 'robots.txt'},
+    'assets/favicon.ico': {'path': 'favicon.ico'},
+}
+#    (
+#    ('assets/robots.txt', 'robots.txt'),
+#    ('assets/favicon.ico', 'favicon.ico'),
+#)
+
+READERS = {'html': None} # see https://github.com/getpelican/pelican/issues/1157
 
 DIRECT_TEMPLATES = ('index', 'tags', 'categories', 'archives', 'sitemap')
 SITEMAP_SAVE_AS = 'sitemap.xml'
