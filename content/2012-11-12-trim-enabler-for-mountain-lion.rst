@@ -1,12 +1,12 @@
 TRIM Enabler for OSX Mavericks
 #############################################
-:date: 2014-02-26 09:38
+:date: 2014-05-21 12:13
 :category: General
 :tags: osx, trim, mountain lion, mavericks
 :slug: trim-enabler-for-osx
-:summary: Re-enable TRIM support on OSX Mavericks 10.9.2 and below.
+:summary: Re-enable TRIM support on OSX Mavericks 10.9.3 and below.
 
-Here’s the proper way to re-enable TRIM support on OSX Mavericks 10.9.2 and below. Run these commands in Terminal:
+Here’s the proper way to re-enable TRIM support on OSX Mavericks 10.9.3 and below. Run these commands in Terminal:
 
 .. raw:: html
 
