@@ -1,9 +1,11 @@
 Projects
 ########
 
-- `Kronehit Phonegap App`: concept work, phonegap javascript interface. *2014* [1]_
+- `Relaunch Berliner Rundfunk`: Flask API development, AWS Server maintenance. *2014* [1]_
+- `Relaunch rs2 94,3`: Flask API development, AWS Server maintenance. *2014* [1]_
+- `Kronehit Phonegap App <https://itunes.apple.com/at/app/kronehit-online-radio-charts/id324558085>`_: concept work, phonegap javascript interface. *2014* [1]_
 - `Radio Service Berlin <http://ras.berlin/>`_: server maintenance. *2014* [1]_
-- `Relaunch Kronehit 2013 <http://www.kronehit.at/>`_: Flask API development, AWS Server maintenance. *2013* [1]_
+- `Relaunch Kronehit Radio <http://www.kronehit.at/>`_: Flask API development, AWS Server maintenance. *2013* [1]_
 - `Halle für Kunst und Medien (Graz) <http://www.km-k.at/>`_: django project, server maintenance *2013*
 - `Topradio <http://www.topradio.de/>`_: server maintenance. *2013* [1]_
 - `Nicole Six & Paul Petritsch <http://www.six-petritsch.com/>`_: django project, server maintenance *2012*
