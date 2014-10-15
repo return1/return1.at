@@ -10,6 +10,9 @@
 </header>
 
 <div class="entry-content">
+    {% if article.modified %}
+        <span class="modified footnote"> updated <abbr title="{{ article.modified.isoformat() }}">{{ article.locale_modified }}</abbr></span>
+    {% endif %}
     {{ article.content }}
 </div>
 

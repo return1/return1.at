@@ -22,7 +22,7 @@ SOCIAL = (
     ('gittip', 'https://www.gittip.com/return1_at/'),
 )
 
-DEFAULT_PAGINATION = 5
+DEFAULT_PAGINATION = 50
 
 THEME = "themes/return1"
 
