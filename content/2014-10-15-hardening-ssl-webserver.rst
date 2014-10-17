@@ -4,7 +4,7 @@ Hardening Your Web Server’s SSL Ciphers
 :category: Server
 :tags: apache2, nginx, ssl, security
 :slug: hardening-your-web-servers-ssl-ciphers
-:Status: draft
+:summary: Just archiving the actual required web server configs for nginx and apache2
 
 Just archiving the actual required web server configs:
 
@@ -15,7 +15,7 @@ Just archiving the actual required web server configs:
 **Nginx**
 
 .. code-block:: nginx
-    
+
     ssl_prefer_server_ciphers On;
     ssl_protocols TLSv1 TLSv1.1 TLSv1.2;
     ssl_ciphers ECDH+AESGCM:DH+AESGCM:ECDH+AES256:DH+AES256:ECDH+AES128:DH+AES:ECDH+3DES:DH+3DES:RSA+AESGCM:RSA+AES:RSA+3DES:!aNULL:!MD5:!DSS;
