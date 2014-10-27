@@ -1,9 +1,12 @@
 Why i switched from Dropbox to Wuala
 ####################################
 :date: 2011-06-23 09:53
+:modified: 2014-10-27 09:19
 :category: General
-:tags: security, zero knowledge
+:tags: security, zero knowledge, filesync
 :slug: why-i-switched-from-dropbox-to-wuala
+
+Update Oct 2014: I switched to `BitTorrent Sync`_ in the meantime. `Wuala`_ is still great, but cancelling their free storage.
 
 I have been using `Dropbox`_ just to sync my `Keepass`_ database. 
 It's no secret that Dropbox data transmission is not encrypted, neither is their data storage.
@@ -39,6 +42,7 @@ That means, only sharing between Wuala accounts is 100% secure.
 I am really pleased so far.
 If you want a little more disk space, there is a multitude of `promo codes`_, just google for them.
 
+.. _BitTorrent Sync: http://www.bittorrent.com/sync
 .. _Dropbox: https://www.dropbox.com/
 .. _Keepass: http://keepass.info/
 .. _MobileMe: http://me.com/idisk/
