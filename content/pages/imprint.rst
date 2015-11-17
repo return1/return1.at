@@ -7,8 +7,8 @@ Imprint
     Web Development</p>
 
     <p>Dominique Lederer<br>
-    Straßergasse 8-12/2/3<br>
-    A-1190 Vienna<br>
+    Kortan-Gasse 19<br>
+    A-3062 Kirchstetten<br>
     Austria</p>
 
     <p>UID: ATU63029216</p>
