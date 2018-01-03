@@ -1,22 +1,46 @@
-Projects
-########
+About
+#####
+:slug: home
+:save_as: index.html
 
-- `secret project`: large scale radio platform, in development. *2015-now()* [1]_
-- `Safely`: Webbased, secure Passwordmanager developed with Flask and PostgreSQL. *2015-now()* [1]_
-- `Relaunch KISS FM, der Beat von Berlin <http://www.kissfm.de/>`_: Flask API development, AWS Server maintenance. *2015-now()* [1]_
-- `Relaunch Berliner Rundfunk 91.4 <http://www.berliner-rundfunk.de/>`_: Flask API development, AWS Server maintenance. *2014-now()* [1]_
-- `Relaunch rs2 94,3 <http://www.rs2.de/>`_: Flask API development, AWS Server maintenance. *2014-now()* [1]_
+My name is Dominique Lederer, and I have been a web application developer since 1999/2000. Having worked for renowned corporate
+clients from the start (like Telekom Austria, Allianz, o2 or Red Bull), and after completing my studies at FH Technikum
+Wien (Information and Communication Systems and Services), I became self-employed in 2007, in order to offer my clients
+first-hand quality.
+
+Focusing on current and reliable technologies, I design, develop and maintain web applications. With constant education
+and training, I make sure to retain the cutting edge.
+
+.. raw:: html
+
+    <p>For further information, or if you are interested in a collaboration, please contact me on&nbsp;
+    <a class="reference external" href="https://www.xing.com/profile/Dominique_Lederer">Xing</a>,&nbsp;
+    <a class="reference external" href="http://at.linkedin.com/in/dominiquelederer">LinkedIn</a> or&nbsp;
+    <a class="reference external" href="https://twitter.com/return1_at">Twitter</a>,
+    or drop me a mail @ domi<a href="http://www.google.com/recaptcha/mailhide/d?k=01ZilVG1t_mruOsKRl84zCUg==&amp;c=mu8xPEnugt-jSqIWB0x-3QBUGQ-6f8f-MxWhR5gTLus=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501ZilVG1t_mruOsKRl84zCUg\75\75\46c\75mu8xPEnugt-jSqIWB0x-3QBUGQ-6f8f-MxWhR5gTLus\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">...</a>@return1.at</p>
+
+Projects
+---------------
+
+- `skipfm – next generation radio player <http://skipfm.at/>`_: large scale radio platform, Flask, PostgreSQL, AWS. *2015-now()* [1]_
+- `CRM for KroneHIT`: Flask, PostgreSQL. *2015-now()* [1]_
+- `Halle für Kunst und Medien (Graz) Online Journal <https://journal.km-k.at/>`_: django project (wagtail cms), server maintenance *2017-now()*
+- `Safely <http://www.safely.at/>`_:: Webbased, secure Passwordmanager developed with Flask and PostgreSQL. *2015-now()* [1]_
+- `Relaunch KISS FM, der Beat von Berlin <http://www.kissfm.de/>`_: Flask API development, AWS Server maintenance. *2017-now()* [1]_
+- `Relaunch Berliner Rundfunk 91.4 <http://www.berliner-rundfunk.de/>`_: Flask API development, AWS Server maintenance. *2017-now()* [1]_
+- `Relaunch rs2 94,3 <http://www.rs2.de/>`_: Flask API development, AWS Server maintenance. *2017-now()* [1]_
 - `Relaunch Kronehit Radio <http://www.kronehit.at/>`_: Flask API development, AWS Server maintenance. *2013-now()* [1]_
 - `Halle für Kunst und Medien (Graz) <http://www.km-k.at/>`_: django project, server maintenance *2013-now()*
 - `Nicole Six & Paul Petritsch <http://www.six-petritsch.com/>`_: django project, server maintenance *2012-now()*
 - `ViennaEventCrew <http://www.viennaeventcrew.at>`_: custom CRM with PostgreSQL, Zend Framework and ExtJS, hosted on AWS. *2009-now()*
 - `Wunderweiss <http://www.wunderweiss.com>`_: maintenance of the wunderweiss server environment (Debian, Ubuntu, AWS). *2007-now()*
-- `Wenatex Intranet <http://mein.wenatex.com/loki/>`_: highly frequented complex application built on Python, Bluebream
-  (formerly known as Zope 3) with RelStorage and SQLAlchemy, PostgreSQL with Postgis, jQuery, Reportlab and Google Maps. *2007-now()* [1]_
 
 Projects - done
 ---------------
 
+
+- `Wenatex Intranet <http://mein.wenatex.com/loki/>`_: highly frequented complex application built on Python, Bluebream
+  (formerly known as Zope 3) with RelStorage and SQLAlchemy, PostgreSQL with Postgis, jQuery, Reportlab and Google Maps. *2007-2017* [1]_
 - `Radio Service Berlin <http://ras.berlin/>`_: server maintenance. *2014* [1]_
 - `Kronehit Phonegap App <https://itunes.apple.com/at/app/kronehit-online-radio-charts/id324558085>`_: concept work, phonegap javascript interface. *2014* [1]_
 - `Topradio <http://www.topradio.de/>`_: server maintenance. *2013* [1]_
@@ -55,3 +79,21 @@ Turbo Schuh :: Vereinigte Bühnen Wien :: Viewturn :: WWF Österreich
 
 
 .. [1] developed for `wunderweiss <http://www.wunderweiss.com>`_
+
+
+Imprint
+-------
+
+.. raw:: html
+
+    <p>return1<br>
+    Web Development</p>
+
+    <p>Dominique Lederer<br>
+    Sparkassenplatz 4<br>
+    A-8230 Hartberg<br>
+    Austria</p>
+
+    <p>UID: ATU63029216</p>
+
+    <p>BIC: EASYATW1, IBAN: AT35 1420 0200 1094 1394</p>

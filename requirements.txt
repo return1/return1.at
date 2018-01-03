@@ -1,2 +1,4 @@
-pelican==3.4.0
-pelican-minify==0.4
+pelican==3.7.1
+pelican-minify
+#pelican==3.4.0
+#pelican-minify==0.4
