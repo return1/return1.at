@@ -17,28 +17,34 @@ and training, I make sure to retain the cutting edge.
     <a class="reference external" href="https://www.xing.com/profile/Dominique_Lederer">Xing</a>,&nbsp;
     <a class="reference external" href="http://at.linkedin.com/in/dominiquelederer">LinkedIn</a> or&nbsp;
     <a class="reference external" href="https://twitter.com/return1_at">Twitter</a>,
-    or drop me a mail @ domi<a href="http://www.google.com/recaptcha/mailhide/d?k=01ZilVG1t_mruOsKRl84zCUg==&amp;c=mu8xPEnugt-jSqIWB0x-3QBUGQ-6f8f-MxWhR5gTLus=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501ZilVG1t_mruOsKRl84zCUg\75\75\46c\75mu8xPEnugt-jSqIWB0x-3QBUGQ-6f8f-MxWhR5gTLus\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">...</a>@return1.at</p>
+    or drop me a mail @ <a target="_blank" href="https://mailhide.io/e/sNWWU">d......@return1.at</a></p>
 
 Projects
 ---------------
 
-- `skipfm – next generation radio player <http://skipfm.at/>`_: large scale radio platform, Flask, PostgreSQL, AWS. *2015-now()* [1]_
+- `kronehit smart / skipfm – next generation radio player <http://skipfm.at/>`_: award wining (`Constantinus Award 2018 <https://www.constantinus.net/de/wall-of-fame/84238.html>`_, `Futurezone Award 2017 <https://futurezone.at/myfuzo/das-sind-die-gewinner-des-futurezone-award-2017/296.577.448>`_) large scale radio platform built on Flask, PostgreSQL, AWS. *2015-now()* [1]_
+- `ViennaEventCrew CRM Frontend Rewrite <http://portal.viennaeventcrew.at>`_: vue.js and Devextreme, hosted on AWS. *2009-now()*
+- `Radio Arabella <https://www.arabella.at/>`_: Flask API development, AWS Server maintenance. *2020-now()* [1]_
+- `Radio Austria <http://www.radioaustria.at/>`_: Flask API development, AWS Server maintenance. *2019-now()* [1]_
+- `Antenne Salzburg <https://antennesalzburg.oe24.at/>`_: Flask API development, AWS Server maintenance. *2019-now()* [1]_
+- `Topradio <http://www.topradio.de/>`_: serverless hosting of a django project (wagtail cms) via zappa  *2019-now()* [1]_
 - `CRM for KroneHIT`: Flask, PostgreSQL. *2015-now()* [1]_
 - `Halle für Kunst und Medien (Graz) Online Journal <https://journal.km-k.at/>`_: django project (wagtail cms), server maintenance *2017-now()*
 - `Safely <http://www.safely.at/>`_:: Webbased, secure Passwordmanager developed with Flask and PostgreSQL. *2015-now()* [1]_
 - `Relaunch KISS FM, der Beat von Berlin <http://www.kissfm.de/>`_: Flask API development, AWS Server maintenance. *2017-now()* [1]_
 - `Relaunch Berliner Rundfunk 91.4 <http://www.berliner-rundfunk.de/>`_: Flask API development, AWS Server maintenance. *2017-now()* [1]_
 - `Relaunch rs2 94,3 <http://www.rs2.de/>`_: Flask API development, AWS Server maintenance. *2017-now()* [1]_
+- `Radio Ton <http://www.radioton.de/>`_: Flask API development, AWS Server maintenance. *2017-now()* [1]_
 - `Relaunch Kronehit Radio <http://www.kronehit.at/>`_: Flask API development, AWS Server maintenance. *2013-now()* [1]_
 - `Halle für Kunst und Medien (Graz) <http://www.km-k.at/>`_: django project, server maintenance *2013-now()*
 - `Nicole Six & Paul Petritsch <http://www.six-petritsch.com/>`_: django project, server maintenance *2012-now()*
-- `ViennaEventCrew <http://www.viennaeventcrew.at>`_: custom CRM with PostgreSQL, Zend Framework and ExtJS, hosted on AWS. *2009-now()*
 - `Wunderweiss <http://www.wunderweiss.com>`_: maintenance of the wunderweiss server environment (Debian, Ubuntu, AWS). *2007-now()*
 
 Projects - done
 ---------------
 
 
+- `ViennaEventCrew CRM <http://www.viennaeventcrew.at>`_: custom CRM with PostgreSQL, Zend Framework and ExtJS, hosted on AWS. *2009-2019*
 - `Wenatex Intranet <http://mein.wenatex.com/loki/>`_: highly frequented complex application built on Python, Bluebream
   (formerly known as Zope 3) with RelStorage and SQLAlchemy, PostgreSQL with Postgis, jQuery, Reportlab and Google Maps. *2007-2017* [1]_
 - `Radio Service Berlin <http://ras.berlin/>`_: server maintenance. *2014* [1]_
@@ -87,13 +93,13 @@ Imprint
 .. raw:: html
 
     <p>return1<br>
-    Web Development</p>
+    Web Application Development</p>
 
     <p>Dominique Lederer<br>
-    Sparkassenplatz 4<br>
+    Josef-Lind-Straße 3/21<br>
     A-8230 Hartberg<br>
     Austria</p>
 
     <p>UID: ATU63029216</p>
 
-    <p>BIC: EASYATW1, IBAN: AT35 1420 0200 1094 1394</p>
+    <p>BIC: NTSBDEB1XXX, IBAN: DE15 1001 1001 2623 6374 05</p>
