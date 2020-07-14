@@ -22,19 +22,17 @@ and training, I make sure to retain the cutting edge.
 Projects
 ---------------
 
+- `Registration System for the University Preparation Programme of the Vienna Universities <https://anmeldung.vwu.at/>`_: django project (wagtail cms), AWS server maintenance *2020-now()* [1]_
 - `kronehit smart / skipfm – next generation radio player <http://skipfm.at/>`_: award wining (`Constantinus Award 2018 <https://www.constantinus.net/de/wall-of-fame/84238.html>`_, `Futurezone Award 2017 <https://futurezone.at/myfuzo/das-sind-die-gewinner-des-futurezone-award-2017/296.577.448>`_) large scale radio platform built on Flask, PostgreSQL, AWS. *2015-now()* [1]_
-- `ViennaEventCrew CRM Frontend Rewrite <http://portal.viennaeventcrew.at>`_: vue.js and Devextreme, hosted on AWS. *2009-now()*
+- `ViennaEventCrew CRM Frontend Rewrite <http://portal.viennaeventcrew.at>`_: vue.js and Devextreme, hosted on AWS. *2019-now()*
 - `Radio Arabella <https://www.arabella.at/>`_: Flask API development, AWS Server maintenance. *2020-now()* [1]_
 - `Radio Austria <http://www.radioaustria.at/>`_: Flask API development, AWS Server maintenance. *2019-now()* [1]_
 - `Antenne Salzburg <https://antennesalzburg.oe24.at/>`_: Flask API development, AWS Server maintenance. *2019-now()* [1]_
 - `Topradio <http://www.topradio.de/>`_: serverless hosting of a django project (wagtail cms) via zappa  *2019-now()* [1]_
-- `CRM for KroneHIT`: Flask, PostgreSQL. *2015-now()* [1]_
 - `Halle für Kunst und Medien (Graz) Online Journal <https://journal.km-k.at/>`_: django project (wagtail cms), server maintenance *2017-now()*
-- `Safely <http://www.safely.at/>`_:: Webbased, secure Passwordmanager developed with Flask and PostgreSQL. *2015-now()* [1]_
-- `Relaunch KISS FM, der Beat von Berlin <http://www.kissfm.de/>`_: Flask API development, AWS Server maintenance. *2017-now()* [1]_
-- `Relaunch Berliner Rundfunk 91.4 <http://www.berliner-rundfunk.de/>`_: Flask API development, AWS Server maintenance. *2017-now()* [1]_
-- `Relaunch rs2 94,3 <http://www.rs2.de/>`_: Flask API development, AWS Server maintenance. *2017-now()* [1]_
 - `Radio Ton <http://www.radioton.de/>`_: Flask API development, AWS Server maintenance. *2017-now()* [1]_
+- `CRM for KroneHIT`: Flask, PostgreSQL. *2015-now()* [1]_
+- `Safely <http://www.safely.at/>`_:: Webbased, secure Passwordmanager developed with Flask and PostgreSQL. *2015-now()* [1]_
 - `Relaunch Kronehit Radio <http://www.kronehit.at/>`_: Flask API development, AWS Server maintenance. *2013-now()* [1]_
 - `Halle für Kunst und Medien (Graz) <http://www.km-k.at/>`_: django project, server maintenance *2013-now()*
 - `Nicole Six & Paul Petritsch <http://www.six-petritsch.com/>`_: django project, server maintenance *2012-now()*
@@ -43,7 +41,9 @@ Projects
 Projects - done
 ---------------
 
-
+- `Relaunch KISS FM, der Beat von Berlin`: Flask API development, AWS Server maintenance. *2017-2020* [1]_
+- `Relaunch Berliner Rundfunk 91.4`: Flask API development, AWS Server maintenance. *2017-2020* [1]_
+- `Relaunch rs2 94,3`: Flask API development, AWS Server maintenance. *2017-2020* [1]_
 - `ViennaEventCrew CRM <http://www.viennaeventcrew.at>`_: custom CRM with PostgreSQL, Zend Framework and ExtJS, hosted on AWS. *2009-2019*
 - `Wenatex Intranet <http://mein.wenatex.com/loki/>`_: highly frequented complex application built on Python, Bluebream
   (formerly known as Zope 3) with RelStorage and SQLAlchemy, PostgreSQL with Postgis, jQuery, Reportlab and Google Maps. *2007-2017* [1]_
@@ -52,9 +52,9 @@ Projects - done
 - `Topradio <http://www.topradio.de/>`_: server maintenance. *2013* [1]_
 - `Kindergruppe Sternenland <http://www.kindergruppe-sternenland.at/>`_: django, mezzanine project. *2013*
 - `Brandmair <http://brandmair.net/>`_: conversion of existing flash page to html only. *2012*
-- `rs2 94,3 <http://www.rs2.de>`_: development and server maintenance. *2010* [1]_
-- `Berliner Rundfunk 91.4 <http://www.berliner-rundfunk.de/>`_: development and server maintenance. *2010* [1]_
-- `KISS FM, der Beat von Berlin <http://www.kissfm.de/>`_: development and server maintenance. *2010* [1]_
+- `rs2 94,3`: development and server maintenance. *2010* [1]_
+- `Berliner Rundfunk 91.4`: development and server maintenance. *2010* [1]_
+- `KISS FM, der Beat von Berlin`: development and server maintenance. *2010* [1]_
 - `Kronehit Portal <http://www.kronehit.at>`_: social network based on Zend Framework. *2009-2013* [1]_
 - `Kronehit iPhone App <http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=324558085&amp;amp;mt=8>`_:
   most downloaded music app (2009) in the austrian app store. *2009* [1]_
