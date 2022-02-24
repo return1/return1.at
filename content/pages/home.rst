@@ -22,7 +22,8 @@ and training, I make sure to retain the cutting edge.
 Projects
 ---------------
 
-- `Registration System for the University Preparation Programme of the Vienna Universities <https://anmeldung.vwu.at/>`_: django project (wagtail cms), AWS server maintenance *2020-now()* [1]_
+- `Relaunch OEAD Student Housing <https://www.oeadstudenthousing.at/>`_: django project (wagtail cms), ansible, AWS server maintenance *2021-now()* [1]_
+- `Registration System for the University Preparation Programme of the Vienna Universities <https://anmeldung.vwu.at/>`_: django project (wagtail cms), ansible, AWS server maintenance *2020-now()* [1]_
 - `kronehit smart / skipfm – next generation radio player <http://skipfm.at/>`_: award wining (`Constantinus Award 2018 <https://www.constantinus.net/de/wall-of-fame/84238.html>`_, `Futurezone Award 2017 <https://futurezone.at/myfuzo/das-sind-die-gewinner-des-futurezone-award-2017/296.577.448>`_) large scale radio platform built on Flask, PostgreSQL, AWS. *2015-now()* [1]_
 - `ViennaEventCrew CRM Frontend Rewrite <http://portal.viennaeventcrew.at>`_: vue.js and Devextreme, hosted on AWS. *2019-now()*
 - `Radio Arabella <https://www.arabella.at/>`_: Flask API development, AWS Server maintenance. *2020-now()* [1]_
