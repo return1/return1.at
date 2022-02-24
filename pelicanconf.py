@@ -14,12 +14,10 @@ DEFAULT_LANG = 'en'
 # Social widget
 SOCIAL = (
     ('twitter', 'https://twitter.com/return1_at'),
-    ('google+', 'https://plus.google.com/113955961996209596236/about'),
-    ('github', 'https://github.com/return1'),
     ('linkedin', 'http://at.linkedin.com/in/dominiquelederer'),
     ('xing', 'https://www.xing.com/profile/Dominique_Lederer'),
+    ('github', 'https://github.com/return1'),
     ('about.me', 'https://about.me/dominique.lederer/'),
-    ('gittip', 'https://www.gittip.com/return1_at/'),
 )
 
 DEFAULT_PAGINATION = 50

@@ -14,5 +14,5 @@ DELETE_OUTPUT_DIRECTORY = True
 # Uncomment following line for absolute URLs in production:
 RELATIVE_URLS = True
 
-DISQUS_SITENAME = "return1at"
-GOOGLE_ANALYTICS = "UA-1814170-3"
+# DISQUS_SITENAME = "return1at"
+# GOOGLE_ANALYTICS = "UA-1814170-3"
