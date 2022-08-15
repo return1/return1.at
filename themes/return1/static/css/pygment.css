@@ -1,6 +1,7 @@
-@import url(http://fonts.googleapis.com/css?family=Ubuntu+Mono:400,400italic,700,700italic);
+/*@import url(http://fonts.googleapis.com/css?family=Ubuntu+Mono:400,400italic,700,700italic);*/
 
-pre, code, tt   { font-family: 'Ubuntu Mono', 'Consolas', 'Deja Vu Sans Mono','Bitstream Vera Sans Mono', 'Monaco', 'Courier New';  }
+/*pre, code, tt   { font-family: 'Ubuntu Mono', 'Consolas', 'Deja Vu Sans Mono','Bitstream Vera Sans Mono', 'Monaco', 'Courier New';  }*/
+pre, code, tt   { font-family: 'Courier New';  }
 pre             { line-height: 1.3; background: none; padding: 0; font-size: 13; }
 code, tt        { background: #DFD8D8; }
 
