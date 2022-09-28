@@ -19,13 +19,14 @@ and training, I make sure to retain the cutting edge.
     <a class="reference external" href="https://twitter.com/return1_at">Twitter</a>,
     or drop me a mail @ <a target="_blank" href="https://mailhide.io/e/sNWWU">d......@return1.at</a></p>
 
-Projects
----------------
+Current Projects
+----------------
 
-- `Relaunch OEAD Student Housing <https://www.oeadstudenthousing.at/>`_: django project (wagtail cms), ansible, AWS server maintenance *2021-now()* [1]_
+- `Relaunch Kronehit Radio 2022 <http://www.kronehit.at/>`_: Flask API development, AWS Server maintenance. *2022-now()* [1]_
+- `OEAD Student Housing <https://www.oeadstudenthousing.at/>`_: django project (wagtail cms), ansible, AWS server maintenance *2021-now()* [1]_
 - `Registration System for the University Preparation Programme of the Vienna Universities <https://anmeldung.vwu.at/>`_: django project (wagtail cms), ansible, AWS server maintenance *2020-now()* [1]_
-- `kronehit smart / skipfm – next generation radio player <http://skipfm.at/>`_: award wining (`Constantinus Award 2018 <https://www.constantinus.net/de/wall-of-fame/84238.html>`_, `Futurezone Award 2017 <https://futurezone.at/myfuzo/das-sind-die-gewinner-des-futurezone-award-2017/296.577.448>`_) large scale radio platform built on Flask, PostgreSQL, AWS. *2015-now()* [1]_
-- `ViennaEventCrew CRM Frontend Rewrite <http://portal.viennaeventcrew.at>`_: vue.js and Devextreme, hosted on AWS. *2019-now()*
+- `kronehit smart / skipfm – next generation radio player <https://www.wunderweiss.com/de/kronehit-smart/>`_: award wining (`Constantinus Award 2018 <https://www.constantinus.net/de/wall-of-fame/84238.html>`_, `Futurezone Award 2017 <https://futurezone.at/myfuzo/das-sind-die-gewinner-des-futurezone-award-2017/296.577.448>`_) large scale radio platform built on Flask, PostgreSQL, AWS. *2015-now()* [1]_
+- `ViennaEventCrew CRM Frontend Rewrite <http://www.viennaeventcrew.at>`_: custom CRM with PostgreSQL, Zend Framework, vue.js and Devextreme, hosted on AWS. *2019-now()*
 - `Radio Arabella <https://www.arabella.at/>`_: Flask API development, AWS Server maintenance. *2020-now()* [1]_
 - `Radio Austria <http://www.radioaustria.at/>`_: Flask API development, AWS Server maintenance. *2019-now()* [1]_
 - `Antenne Salzburg <https://antennesalzburg.oe24.at/>`_: Flask API development, AWS Server maintenance. *2019-now()* [1]_
@@ -34,7 +35,6 @@ Projects
 - `Radio Ton <http://www.radioton.de/>`_: Flask API development, AWS Server maintenance. *2017-now()* [1]_
 - `CRM for KroneHIT`: Flask, PostgreSQL. *2015-now()* [1]_
 - `Safely <http://www.safely.at/>`_:: Webbased, secure Passwordmanager developed with Flask and PostgreSQL. *2015-now()* [1]_
-- `Relaunch Kronehit Radio <http://www.kronehit.at/>`_: Flask API development, AWS Server maintenance. *2013-now()* [1]_
 - `Halle für Kunst und Medien (Graz) <http://www.km-k.at/>`_: django project, server maintenance *2013-now()*
 - `Nicole Six & Paul Petritsch <http://www.six-petritsch.com/>`_: django project, server maintenance *2012-now()*
 - `Wunderweiss <http://www.wunderweiss.com>`_: maintenance of the wunderweiss server environment (Debian, Ubuntu, AWS). *2007-now()*
@@ -42,6 +42,7 @@ Projects
 Projects - done
 ---------------
 
+- `Relaunch Kronehit Radio 2013 <http://www.kronehit.at/>`_: Flask API development, AWS Server maintenance. *2013-2022* [1]_
 - `Relaunch KISS FM, der Beat von Berlin`: Flask API development, AWS Server maintenance. *2017-2020* [1]_
 - `Relaunch Berliner Rundfunk 91.4`: Flask API development, AWS Server maintenance. *2017-2020* [1]_
 - `Relaunch rs2 94,3`: Flask API development, AWS Server maintenance. *2017-2020* [1]_
